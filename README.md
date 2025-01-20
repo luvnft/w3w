@@ -9,6 +9,7 @@ Key Contributions:
 Designed and implemented the frontend using React.js, ensuring a seamless and user-friendly interface.
 Successfully integrated the frontend with the backend, enabling efficient interaction between the user interface and the blockchain-based naming system.
 Collaborated with the team to ensure smooth functionality and deployment within a challenging 1.5-day timeframe during the hackathon.
+
 Innovation:
 
 Streamlined blockchain address usage by replacing complex hexadecimal strings with intuitive names, reducing storage time and improving user experience.
