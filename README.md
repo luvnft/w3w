@@ -1,6 +1,7 @@
 # w3w
-Word Name Service
-WNS (Word Naming System) | Hackathon - EthGlobal Singapore
+Word Name Service (WNS)
+Hackathon - EthGlobal Singapore
+
 Developed an innovative Word Naming System (WNS) to simplify blockchain address identification by assigning human-readable names to blockchain addresses, similar to how domains map to IPs. This system enhances accessibility and reduces the complexity of managing blockchain addresses.
 
 Key Contributions:
